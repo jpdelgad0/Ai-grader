@@ -1,1 +1,2 @@
 # Ai-grader
+This AI model was developed for the Learning Agency Lab - Automated Essay Scoring 2.0 competition dataset on kaggle: https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/overview . This model has a .804 accuracy and gives short response essays a grade between 1-6 depending on a number of different features like lexocal diversity. The essays are preprocessed and trained on a gradient boosted trees.
